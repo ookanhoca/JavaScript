@@ -5,7 +5,7 @@
  *   hello this is a difficult to read sentence
  */
 
-let myString = 'hello,this,is,a,difficult,to,read,sentence';
+let myString = 'hello this is a difficult to read sentence';
 
 myString = myString.split(',').join(' ');
 
